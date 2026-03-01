@@ -1,0 +1,161 @@
+ErrorDocument 403 /404.html
+ErrorDocument 404 /404.html
+
+DirectoryIndex page95519436.html
+
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} /robots.txt
+RewriteCond "%{DOCUMENT_ROOT}/project17584666/robots_%{HTTP_HOST}.txt" -f
+RewriteRule ^(.*)$ robots_%{HTTP_HOST}.txt [NC,L]
+RewriteRule ^general$ page95519436.html [NC]
+RewriteRule ^general/$ page95519436.html [NC]
+
+RewriteRule ^blank$ page95539106.html [NC]
+RewriteRule ^blank/$ page95539106.html [NC]
+
+RewriteRule ^trains$ page99134336.html [NC]
+RewriteRule ^trains/$ page99134336.html [NC]
+
+RewriteRule ^whitenight$ page99621366.html [NC]
+RewriteRule ^whitenight/$ page99621366.html [NC]
+
+RewriteRule ^russianbestfr$ page99629066.html [NC]
+RewriteRule ^russianbestfr/$ page99629066.html [NC]
+
+RewriteRule ^regest$ page99631226.html [NC]
+RewriteRule ^regest/$ page99631226.html [NC]
+
+RewriteRule ^genspani$ page99635116.html [NC]
+RewriteRule ^genspani/$ page99635116.html [NC]
+
+RewriteRule ^span$ page99636986.html [NC]
+RewriteRule ^span/$ page99636986.html [NC]
+
+RewriteRule ^apartments$ page99845236.html [NC]
+RewriteRule ^apartments/$ page99845236.html [NC]
+
+RewriteRule ^apart$ page99848276.html [NC]
+RewriteRule ^apart/$ page99848276.html [NC]
+
+RewriteRule ^apart2$ page101792886.html [NC]
+RewriteRule ^apart2/$ page101792886.html [NC]
+
+RewriteRule ^apartamentosspan$ page101797376.html [NC]
+RewriteRule ^apartamentosspan/$ page101797376.html [NC]
+
+RewriteRule ^apartos$ page101797976.html [NC]
+RewriteRule ^apartos/$ page101797976.html [NC]
+
+RewriteRule ^apartos2$ page101798716.html [NC]
+RewriteRule ^apartos2/$ page101798716.html [NC]
+
+RewriteRule ^apartgenf$ page101800156.html [NC]
+RewriteRule ^apartgenf/$ page101800156.html [NC]
+
+RewriteRule ^apart11$ page101800676.html [NC]
+RewriteRule ^apart11/$ page101800676.html [NC]
+
+RewriteRule ^apart22$ page101802836.html [NC]
+RewriteRule ^apart22/$ page101802836.html [NC]
+
+RewriteRule ^gtg$ page106925416.html [NC]
+RewriteRule ^gtg/$ page106925416.html [NC]
+
+RewriteRule ^transfer1$ page107462576.html [NC]
+RewriteRule ^transfer1/$ page107462576.html [NC]
+
+RewriteRule ^transfer$ page107462626.html [NC]
+RewriteRule ^transfer/$ page107462626.html [NC]
+
+RewriteRule ^photographer$ page107466456.html [NC]
+RewriteRule ^photographer/$ page107466456.html [NC]
+
+RewriteRule ^photographerruss$ page107467876.html [NC]
+RewriteRule ^photographerruss/$ page107467876.html [NC]
+
+RewriteRule ^photographerspan$ page107467986.html [NC]
+RewriteRule ^photographerspan/$ page107467986.html [NC]
+
+RewriteRule ^tourseng$ page107982416.html [NC]
+RewriteRule ^tourseng/$ page107982416.html [NC]
+
+RewriteRule ^toursrus$ page108000346.html [NC]
+RewriteRule ^toursrus/$ page108000346.html [NC]
+
+RewriteRule ^touresp$ page108000976.html [NC]
+RewriteRule ^touresp/$ page108000976.html [NC]
+
+RewriteRule ^tour1eng$ page108426656.html [NC]
+RewriteRule ^tour1eng/$ page108426656.html [NC]
+
+RewriteRule ^tour2eng$ page108427706.html [NC]
+RewriteRule ^tour2eng/$ page108427706.html [NC]
+
+RewriteRule ^tour3eng$ page108427756.html [NC]
+RewriteRule ^tour3eng/$ page108427756.html [NC]
+
+RewriteRule ^tour4eng$ page108427816.html [NC]
+RewriteRule ^tour4eng/$ page108427816.html [NC]
+
+RewriteRule ^tour5eng$ page108427896.html [NC]
+RewriteRule ^tour5eng/$ page108427896.html [NC]
+
+RewriteRule ^tour6eng$ page108427966.html [NC]
+RewriteRule ^tour6eng/$ page108427966.html [NC]
+
+RewriteRule ^tour1rus$ page108428066.html [NC]
+RewriteRule ^tour1rus/$ page108428066.html [NC]
+
+RewriteRule ^tour2rus$ page108428296.html [NC]
+RewriteRule ^tour2rus/$ page108428296.html [NC]
+
+RewriteRule ^tour3rus$ page108428336.html [NC]
+RewriteRule ^tour3rus/$ page108428336.html [NC]
+
+RewriteRule ^tour4rus$ page108428386.html [NC]
+RewriteRule ^tour4rus/$ page108428386.html [NC]
+
+RewriteRule ^tour5rus$ page108428426.html [NC]
+RewriteRule ^tour5rus/$ page108428426.html [NC]
+
+RewriteRule ^tour6rus$ page108428476.html [NC]
+RewriteRule ^tour6rus/$ page108428476.html [NC]
+
+RewriteRule ^tour1spa$ page108428606.html [NC]
+RewriteRule ^tour1spa/$ page108428606.html [NC]
+
+RewriteRule ^tour2spa$ page108428876.html [NC]
+RewriteRule ^tour2spa/$ page108428876.html [NC]
+
+RewriteRule ^tour3spa$ page108428936.html [NC]
+RewriteRule ^tour3spa/$ page108428936.html [NC]
+
+RewriteRule ^tour4spa$ page108428986.html [NC]
+RewriteRule ^tour4spa/$ page108428986.html [NC]
+
+RewriteRule ^tour5spa$ page108429046.html [NC]
+RewriteRule ^tour5spa/$ page108429046.html [NC]
+
+RewriteRule ^tour6spa$ page108429076.html [NC]
+RewriteRule ^tour6spa/$ page108429076.html [NC]
+
+RewriteRule ^transfengl2$ page109253026.html [NC]
+RewriteRule ^transfengl2/$ page109253026.html [NC]
+
+RewriteRule ^transferrus2$ page109254926.html [NC]
+RewriteRule ^transferrus2/$ page109254926.html [NC]
+
+RewriteRule ^transferspa2$ page109257416.html [NC]
+RewriteRule ^transferspa2/$ page109257416.html [NC]
+
+RewriteRule ^turseng2$ page109263846.html [NC]
+RewriteRule ^turseng2/$ page109263846.html [NC]
+
+RewriteRule ^2$ page109267316.html [NC]
+RewriteRule ^2/$ page109267316.html [NC]
+
+RewriteRule ^toursespan2$ page109269426.html [NC]
+RewriteRule ^toursespan2/$ page109269426.html [NC]
+
+
